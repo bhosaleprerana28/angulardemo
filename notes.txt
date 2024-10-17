@@ -1,0 +1,6 @@
+login to git
+navigate to repo
+goto codespace
+dependancy install
+
+
